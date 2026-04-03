@@ -2,7 +2,7 @@
 
 A warm, earthy Obsidian theme, inspired by Sonoma's images of the [Warm Springs farm](https://www.mazzocco.com/Our-Story/Vineyards/Warm-Springs-Ranch). 
 
-![Warm Springs preview](warm-springs-preview.png)
+![Warm Springs preview](warm-springs-full.png)
 
 Dark chocolate darks, cream lights, desaturated greens, muted rust and clay accents. Supports both light and dark mode.
 

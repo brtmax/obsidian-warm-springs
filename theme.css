@@ -4,19 +4,19 @@
 :root {
   --ws-light:       #ede8e0;
   --ws-light-gray:  #d9d1c5;
-  --ws-gray:        #9a8f82;
+  --ws-gray:        #978c7f;
   --ws-dark-gray:   #4a4238;
   --ws-dark:        #3a2e28;
-  --ws-secondary:   #a67c6d;
+  --ws-secondary:   #a47a6b;
   --ws-tertiary:    #8b7f73;
   --ws-rust:        #b86b65;
   --ws-clay:        #c98880;
-  --ws-ochre:       #cc9e54;
-  --ws-sage:        #869c7a;
+  --ws-ochre:       #c99c52;
+  --ws-sage:        #849a78;
   --ws-pine:        #56706b;
   --ws-slate:       #a8bef0;
   --ws-slate-light: #6e96d8;
-  --ws-mauve:       #9d868e;
+  --ws-mauve:       #9b848c;
 
   --ws-bg:          #231f1c;
   --ws-bg2:         #2e2923;
